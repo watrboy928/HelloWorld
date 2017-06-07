@@ -49,7 +49,7 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\HelloWorldClass\Api.csproj">
+    <ProjectReference Include="..\Api\Api.csproj">
       <Project>{3ec288f9-3a0b-4dca-b697-160df6f3cb68}</Project>
       <Name>Api</Name>
     </ProjectReference>
