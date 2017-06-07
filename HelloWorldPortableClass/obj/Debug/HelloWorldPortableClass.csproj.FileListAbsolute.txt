@@ -1,0 +1,17 @@
+C:\Users\Erik\documents\visual studio 2013\Projects\HelloWorldApplication\HelloWorldPortableClass\bin\Debug\HelloWorldPortableClass.dll
+C:\Users\Erik\documents\visual studio 2013\Projects\HelloWorldApplication\HelloWorldPortableClass\bin\Debug\HelloWorldPortableClass.pdb
+C:\Users\Erik\documents\visual studio 2013\Projects\HelloWorldApplication\HelloWorldPortableClass\bin\Debug\HelloWorldPortableClass.pri
+C:\Users\Erik\documents\visual studio 2013\Projects\HelloWorldApplication\HelloWorldPortableClass\obj\Debug\HelloWorldPortableClass.csprojResolveAssemblyReference.cache
+C:\Users\Erik\documents\visual studio 2013\Projects\HelloWorldApplication\HelloWorldPortableClass\obj\Debug\HelloWorldPortableClass.dll
+C:\Users\Erik\documents\visual studio 2013\Projects\HelloWorldApplication\HelloWorldPortableClass\obj\Debug\HelloWorldPortableClass.pdb
+C:\Users\Erik\documents\visual studio 2013\Projects\HelloWorldApplication\HelloWorldPortableClass\obj\Debug\priconfig.xml
+C:\Users\Erik\documents\visual studio 2013\Projects\HelloWorldApplication\HelloWorldPortableClass\obj\Debug\priconfig.xml.intermediate
+C:\Users\Erik\documents\visual studio 2013\Projects\HelloWorldApplication\HelloWorldPortableClass\obj\Debug\layout.resfiles
+C:\Users\Erik\documents\visual studio 2013\Projects\HelloWorldApplication\HelloWorldPortableClass\obj\Debug\layout.resfiles.intermediate
+C:\Users\Erik\documents\visual studio 2013\Projects\HelloWorldApplication\HelloWorldPortableClass\obj\Debug\resources.resfiles
+C:\Users\Erik\documents\visual studio 2013\Projects\HelloWorldApplication\HelloWorldPortableClass\obj\Debug\resources.resfiles.intermediate
+C:\Users\Erik\documents\visual studio 2013\Projects\HelloWorldApplication\HelloWorldPortableClass\obj\Debug\pri.resfiles
+C:\Users\Erik\documents\visual studio 2013\Projects\HelloWorldApplication\HelloWorldPortableClass\obj\Debug\pri.resfiles.intermediate
+C:\Users\Erik\documents\visual studio 2013\Projects\HelloWorldApplication\HelloWorldPortableClass\obj\Debug\qualifiers.txt
+C:\Users\Erik\documents\visual studio 2013\Projects\HelloWorldApplication\HelloWorldPortableClass\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Erik\documents\visual studio 2013\Projects\HelloWorldApplication\HelloWorldPortableClass\obj\Debug\MultipleQualifiersPerDimensionFound.txt

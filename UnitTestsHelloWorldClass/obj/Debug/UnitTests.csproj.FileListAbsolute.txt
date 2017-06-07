@@ -1,0 +1,7 @@
+C:\Users\Erik\documents\visual studio 2013\Projects\HelloWorldApplication\UnitTestsHelloWorldClass\bin\Debug\UnitTestsHelloWorldClass.dll
+C:\Users\Erik\documents\visual studio 2013\Projects\HelloWorldApplication\UnitTestsHelloWorldClass\bin\Debug\UnitTestsHelloWorldClass.pdb
+C:\Users\Erik\documents\visual studio 2013\Projects\HelloWorldApplication\UnitTestsHelloWorldClass\bin\Debug\HelloWorldClass.dll
+C:\Users\Erik\documents\visual studio 2013\Projects\HelloWorldApplication\UnitTestsHelloWorldClass\bin\Debug\HelloWorldClass.pdb
+C:\Users\Erik\documents\visual studio 2013\Projects\HelloWorldApplication\UnitTestsHelloWorldClass\obj\Debug\UnitTests.csprojResolveAssemblyReference.cache
+C:\Users\Erik\documents\visual studio 2013\Projects\HelloWorldApplication\UnitTestsHelloWorldClass\obj\Debug\UnitTestsHelloWorldClass.dll
+C:\Users\Erik\documents\visual studio 2013\Projects\HelloWorldApplication\UnitTestsHelloWorldClass\obj\Debug\UnitTestsHelloWorldClass.pdb

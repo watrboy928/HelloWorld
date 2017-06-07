@@ -1,0 +1,8 @@
+c:\users\erik\documents\visual studio 2013\Projects\HelloWorldApplication\HelloWorldApplication\bin\Debug\HelloWorldApplication.exe.config
+c:\users\erik\documents\visual studio 2013\Projects\HelloWorldApplication\HelloWorldApplication\obj\Debug\HelloWorldApplication.csprojResolveAssemblyReference.cache
+c:\users\erik\documents\visual studio 2013\Projects\HelloWorldApplication\HelloWorldApplication\bin\Debug\HelloWorldApplication.exe
+c:\users\erik\documents\visual studio 2013\Projects\HelloWorldApplication\HelloWorldApplication\bin\Debug\HelloWorldApplication.pdb
+c:\users\erik\documents\visual studio 2013\Projects\HelloWorldApplication\HelloWorldApplication\obj\Debug\HelloWorldApplication.exe
+c:\users\erik\documents\visual studio 2013\Projects\HelloWorldApplication\HelloWorldApplication\obj\Debug\HelloWorldApplication.pdb
+C:\Users\Erik\documents\visual studio 2013\Projects\HelloWorldApplication\HelloWorldApplication\bin\Debug\HelloWorldClass.dll
+C:\Users\Erik\documents\visual studio 2013\Projects\HelloWorldApplication\HelloWorldApplication\bin\Debug\HelloWorldClass.pdb
